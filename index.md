@@ -11,7 +11,7 @@ humantime: "9:00 am - 12:00 pm"    # human-readable times for the workshop (e.g.
 startdate: 2020-10-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-10-22       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sayane Shome", "David Yakobovitch", "Sichong Peng", "Aditya Bandla", "Saranya Canchi", "Samir Amin"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Amnah Siddiqa", "Sue McClatchy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Amnah Siddiqa", "Alexis Garretson", "Sue McClatchy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]    
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 118207944143
