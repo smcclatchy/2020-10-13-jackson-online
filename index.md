@@ -13,7 +13,7 @@ enddate: 2020-10-22       # machine-readable end date for the workshop in YYYY-M
 instructor: ["Sayane Shome", "David Yakobovitch", "Sichong Peng", "Aditya Bandla", "Saranya Canchi", "Samir Amin"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Amnah Siddiqa", "Alexis Garretson", "Sue McClatchy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]    
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2020-10-13-jackson-online  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 118207944143
 ---
 
